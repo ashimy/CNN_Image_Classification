@@ -1,6 +1,6 @@
 # CNN_Image_Classification
 
-Python implementations of the fundamental Machine Learning models CNN in order to classificate MNIST image data.
+Python implementation of the fundamental Machine Learning models CNN in order to classificate MNIST image data.
 
 # Model
 
