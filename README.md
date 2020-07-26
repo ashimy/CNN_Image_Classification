@@ -1,6 +1,6 @@
 # CNN_Image_Classification
 
-In this example I build an CNN in order to classificate MNIST image data.
+Python implementations of the fundamental Machine Learning models CNN in order to classificate MNIST image data.
 
 # Model
 
